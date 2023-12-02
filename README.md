@@ -23,6 +23,8 @@ You can also change the firmware using the inbuilt wifi bootloader.
 The bootloader works on any device
 
 
+
+
 Controlling ESPboy_micro_reader:
 pressing the LEFT, RIGHT buttons moves horizontally in the menu:  
 
@@ -40,31 +42,6 @@ to close the file press the ESC button
 Press the UP, DOWN buttons to select the colour of the text.
 to exit press the ESC button
 6 Enjoy using it =)
-
-There will be 3 example files in the data folder to demonstrate how it works.
-You can also change the firmware using the built-in wifi bootloader.
-The bootloader works on any device
-
-
-
-
-ESPboy_micro_reader control:
-pressing the LEFT, RIGHT buttons moves horizontally in the menu:  
-
-1 - boot menu
-ESP creates an access point.
-You must be connected to the network from a computer or other device to download files.
-to exit, press any button 
-
-2 - reading files
-Press the UP, DOWN buttons to select a file, 
-after selection press button A
-to close the file press the ESC button
-
-3 - text color
-Press the UP, DOWN buttons to select the text color.
-to exit press ESC
-  
 
 
 
