@@ -41,7 +41,6 @@ to close the file press the ESC button
 3 - text colour
 Press the UP, DOWN buttons to select the colour of the text.
 to exit press the ESC button
-6 Enjoy using it =)
 
 
 
